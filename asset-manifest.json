@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/tut-practicalreact/static/css/main.5f361e03.chunk.css",
+    "main.js": "/tut-practicalreact/static/js/main.2544646c.chunk.js",
+    "main.js.map": "/tut-practicalreact/static/js/main.2544646c.chunk.js.map",
+    "runtime-main.js": "/tut-practicalreact/static/js/runtime-main.e4f00522.js",
+    "runtime-main.js.map": "/tut-practicalreact/static/js/runtime-main.e4f00522.js.map",
+    "static/css/2.63a747a6.chunk.css": "/tut-practicalreact/static/css/2.63a747a6.chunk.css",
+    "static/js/2.8af50b82.chunk.js": "/tut-practicalreact/static/js/2.8af50b82.chunk.js",
+    "static/js/2.8af50b82.chunk.js.map": "/tut-practicalreact/static/js/2.8af50b82.chunk.js.map",
+    "index.html": "/tut-practicalreact/index.html",
+    "precache-manifest.851e0170c06b144ae9c256a1f93a8127.js": "/tut-practicalreact/precache-manifest.851e0170c06b144ae9c256a1f93a8127.js",
+    "service-worker.js": "/tut-practicalreact/service-worker.js",
+    "static/css/2.63a747a6.chunk.css.map": "/tut-practicalreact/static/css/2.63a747a6.chunk.css.map",
+    "static/css/main.5f361e03.chunk.css.map": "/tut-practicalreact/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.8af50b82.chunk.js.LICENSE.txt": "/tut-practicalreact/static/js/2.8af50b82.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e4f00522.js",
+    "static/css/2.63a747a6.chunk.css",
+    "static/js/2.8af50b82.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.2544646c.chunk.js"
+  ]
+}
