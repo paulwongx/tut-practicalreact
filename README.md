@@ -1,4 +1,4 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# [Preview](https://paulwongx.github.io/tut-practicalreact/)
 
 ## Icons
 $ npm install react-icons
